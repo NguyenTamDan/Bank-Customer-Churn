@@ -1,6 +1,6 @@
 # Bank-Customer-Churn
 
-This project aims to explore the data about churners of the bank and to segment the customers.
+This project aims to understand and predict customer churn for a bank. Specifically, I will initially perform Exploratory Data Analysis (EDA) to identify and visualise the factors contributing to customer churn.
 
 ### Churn prevention strategies
 
