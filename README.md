@@ -1,6 +1,9 @@
 # Bank-Customer-Churn
 
 This project aims to understand and predict customer churn for a bank. Specifically, I will initially perform Exploratory Data Analysis (EDA) to identify and visualise the factors contributing to customer churn.
+Customer churn (also known as customer attrition) occurs when a customer stops using a company's products or services.
+
+Customer churn affects profitability, especially in industries where revenues are heavily dependent on subscriptions (e.g. banks, telephone and internet service providers, pay-TV companies, insurance firms, etc.). It is estimated that acquiring a new customer can cost up to five times more than retaining an existing one.
 ### Therefore, customer churn analysis is essential as it can help a business:
 - Ientify problems in its services (e.g. poor quality product/service, poor customer support, wrong target audience, etc.), and
 - Make correct strategic decisions that would lead to higher customer satisfaction and consequently higher customer retention.
