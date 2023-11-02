@@ -1,7 +1,10 @@
 # Bank-Customer-Churn
 
 This project aims to understand and predict customer churn for a bank. Specifically, I will initially perform Exploratory Data Analysis (EDA) to identify and visualise the factors contributing to customer churn.
-
+### Therefore, customer churn analysis is essential as it can help a business:
+- Ientify problems in its services (e.g. poor quality product/service, poor customer support, wrong target audience, etc.), and
+- Make correct strategic decisions that would lead to higher customer satisfaction and consequently higher customer retention.
+  
 ### Churn prevention strategies
 
 In general, customers searching for bank services mostly crave for small loan rate and high deposit rate, so that they can minimize their costs or maximize profit, as all rational people want to do. So in order to be the most attractive bank for customers, the rates should be managed in customer-centered traditions. This also includes bonus programs or special offers. Customer-oriented approached helps to build trust and loyalty.
